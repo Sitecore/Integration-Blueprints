@@ -3,7 +3,9 @@ Repository containing the sample code used in the Integration Blueprints showing
 Each Integration Blueprint can be found listed below.
 
 ## Samples Included
- - [Sitecore XM & Sitecore CDP](./Sitecore%20XM%20%26%20Sitecore%20CDP)
+| Integration | Notes |
+| ---| --- |
+| [Sitecore XM & Sitecore CDP](./Sitecore%20XM%20%26%20Sitecore%20CDP) | Sample code showing how to integrate Sitecore XM with Sitecore CDP. |
 
 ## Support
 None of the code here is supported by Sitecore, they are code samples to be implemented by Sitecore's Partners & Customers. Github Issues are accepted but there is no commitment to resolving issues. Sitecore will respond to them as time permits.
