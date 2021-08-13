@@ -1,0 +1,1 @@
+# Integration Blueprint - Sitecore XC & Sitecore CDP
