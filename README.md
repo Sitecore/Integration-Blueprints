@@ -5,7 +5,6 @@ Each Integration Blueprint can be found listed below.
 ## Samples Included
 | Integration | Notes |
 | ---| --- |
-| [Sitecore XM & Sitecore CDP](./Sitecore%20XM%20%26%20Sitecore%20CDP) | Sample code showing how to integrate Sitecore XM with Sitecore CDP. |
 | [Sitecore XM & Sitecore CDP](./Sitecore%20OrderCloud%20%26%20Sitecore%20Send) | Sample code showing how to integrate OrderCloud with Sitecore Send. |
 
 
